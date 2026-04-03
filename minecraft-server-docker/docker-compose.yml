@@ -7,10 +7,11 @@ services:
       - "25565:25565"
     environment:
       EULA: "TRUE"
-      TYPE: "NEOFORGE"
-      VERSION: "1.21.1"
-      NEOFORGE_VERSION: "21.1.222"
+      TYPE: "MODRINTH"
+      MODRINTH_MODPACK: "./Silk The Song 1.0.0.mrpack"
       MEMORY: "6G"
+      ENABLE_RCON: "true"
+      RCON_PASSWORD: "Tundrapolis123"
     volumes:
       - ./data:/data
     restart: unless-stopped

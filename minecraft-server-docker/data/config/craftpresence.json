@@ -134,7 +134,9 @@
       "buttons": {}
     },
     "dynamicIcons": {
-      "4b357935-7196-4b6f-9eff-3c08203c4c03.essential-sps": "https://api.mcsrvstat.us/icon/4b357935-7196-4b6f-9eff-3c08203c4c03.essential-sps"
+      "4b357935-7196-4b6f-9eff-3c08203c4c03.essential-sps": "https://api.mcsrvstat.us/icon/4b357935-7196-4b6f-9eff-3c08203c4c03.essential-sps",
+      "localhost": "https://api.mcsrvstat.us/icon/localhost",
+      "286-177-978.local": "https://api.mcsrvstat.us/icon/286-177-978.local"
     },
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",
