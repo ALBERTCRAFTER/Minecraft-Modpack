@@ -16,3 +16,22 @@ minecraft-server-docker/data/versions/
 
 # Opcional: si usas mrpack y no quieres mods duplicados
 minecraft-server-docker/data/mods/
+
+# Otras carpetas y archivos
+minecraft-server-docker/data/resourcepacks/
+minecraft-server-docker/data/shaderpacks/
+minecraft-server-docker/data/.cache/
+minecraft-server-docker/data/.local/
+minecraft-server-docker/data/.mixin.out/
+minecraft-server-docker/data/dynamic-data-pack-cache/
+minecraft-server-docker/data/moonlight-global-datapacks/
+minecraft-server-docker/data/journeymap/
+# Por el momento
+# minecraft-server-docker/data/world/   
+
+*.txt
+*.jar
+*.env
+*.yaml
+*.sh
+*.bat
