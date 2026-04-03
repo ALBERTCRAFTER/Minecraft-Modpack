@@ -15,4 +15,4 @@ minecraft-server-docker/data/versions/
 *.dat_old
 
 # Opcional: si usas mrpack y no quieres mods duplicados
-data/mods/
+minecraft-server-docker/data/mods/
